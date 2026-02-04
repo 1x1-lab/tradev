@@ -91,7 +91,7 @@ const handleDataChange = (data) => {
 .app-header h1 {
   font-size: 2.5rem;
   margin: 0 0 1rem 0;
-  background: linear-gradient(135deg, #42b883 0%, #35495e 100%);
+  background: #8e8e8e;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
